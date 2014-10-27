@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Anton
 tagline:             'Delvis trams'
-description:         '<a href="https://twitter.com/antonmodin" target="_blank">@antonmodin</a>.'
+description:         Blandat trams. '<a href="https://twitter.com/antonmodin" target="_blank">@antonmodin</a>.'
 url:                 http://antonmodin.se
 baseurl:             /
 paginate:            5
