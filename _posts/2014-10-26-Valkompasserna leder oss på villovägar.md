@@ -7,7 +7,7 @@ En kompass visar vägen när du inte vet vartåt du ska gå, när du är vilse. 
 I ärlighetens namn är det inte ofta man är hopplöst vilse i bland granar, mossor och trattkantareller. I den politiska skogen däremot, där är det snårigare. I valtider är vi många som där går i cirklar på jakt efter vår trygga, politiska hemvist. Kan en kompass hjälpa oss att hitta dit?
 
 ![Image of lofot]
-(https://github.com/antonmodin/assets/blob/master/lofot.jpg)
+(https://raw.githubusercontent.com/antonmodin/assets/master/lofot.jpg)
 
 En vanlig kompass pekar alltid mot Nordpolen. Men om jag inte ska just till Nordpolen behöver jag en karta och uppfattning om i vilken riktning jag ska gå, annars kan jag hamna vart som helst. Det är annorlunda med Supervalårets valkompasser. Svarar jag bara på några snabba frågor på min iPhone så kommer valkompassen leda mig. Det är allt som krävs. 
 
