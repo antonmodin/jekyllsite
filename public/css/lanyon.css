@@ -48,7 +48,9 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "futura-pt";,sans-serif", Helvetica, Arial, sans-serif;
+.tk-futura-pt{
+	font-family:"futura-pt",sans-serif;
+}
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
