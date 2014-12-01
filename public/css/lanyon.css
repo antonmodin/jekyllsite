@@ -1,4 +1,17 @@
-
+/*
+ *  ___
+ * /\_ \
+ * \//\ \      __      ___   __  __    ___     ___
+ *   \ \ \   /'__`\  /' _ `\/\ \/\ \  / __`\ /' _ `\
+ *    \_\ \_/\ \_\.\_/\ \/\ \ \ \_\ \/\ \_\ \/\ \/\ \
+ *    /\____\ \__/.\_\ \_\ \_\/`____ \ \____/\ \_\ \_\
+ *    \/____/\/__/\/_/\/_/\/_/`/___/> \/___/  \/_/\/_/
+ *                               /\___/
+ *                               \/__/
+ *
+ * Designed, built, and released under MIT license by @mdo. Learn more at
+ * https://github.com/poole/lanyon.
+ */
 
 
 /*
@@ -35,10 +48,10 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family:'Interstate','Lucida Grande','Lucida Sans Unicode','Lucida Sans','Garuda',Verdana,Tahoma,sans-serif;
-  font-size:14px;
-  line-height:18px;
-  font-weight:400
+font-family:'Interstate','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Garuda,Verdana,Tahoma,sans-serif;
+	font-size:14px;
+	line-height:18px;
+	font-weight:400
 }
   font-weight: 400;
   color: #313131;
@@ -112,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 48rem) {
   .masthead-title {
-    text-align:  center;
+    text-align: center;
   }
   .masthead-title small {
     display: none;
@@ -544,4 +557,3 @@ a.pagination-item:hover {
 -/* Only one tweak for a reverse layout */
 -.layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
 -  box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
-}
