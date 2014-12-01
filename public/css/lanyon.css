@@ -48,12 +48,10 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 
-
-    font-family: 'freight-display-pro', 'PT Serif', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 20px;
-    line-height: 1.5;
-    font-weight: 400;
-    letter-spacing: .05rem;
+font-family:'Interstate','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Garuda,Verdana,Tahoma,sans-serif;
+	font-size:14px;
+	line-height:18px;
+	font-weight:400
 }
 
 
