@@ -125,7 +125,7 @@ font-family:'Interstate','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Gar
 
 @media (max-width: 48rem) {
   .masthead-title {
-    text-align: center;
+    text-align:  center;
   }
   .masthead-title small {
     display: none;
