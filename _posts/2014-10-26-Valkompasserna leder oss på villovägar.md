@@ -16,4 +16,3 @@ Valkompassen asfalterar min väg genom den politiska skogen. Torrskodd kan jag p
 Det är så klart bekvämt. Att följa den politiska debatten och formulera åsikter i varje fråga är ingen lätt match. Valkompassen blir en enkel genväg. Men dess riktning styrs av hur insatt jag är, hur jag uppfattat frågorna och vad kompassens konstruktör anser att de betyder. Jag får en kompass men ingen karta. Jag kan hamna vart som helst.
 
 Vad händer när vi förlitar oss på sådana rekommendationer? När vi tror att vi väljer fritt men inte gör det. Ska inte våra erfarenheter, allt vi tar del, och vår nyfikenhet ger oss karta och riktning? Jag tycker det är värt att fundera på. Det är min rekommendation.
-First post
