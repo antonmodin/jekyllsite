@@ -21,18 +21,18 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Äldre</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Bakåt</a>
   {% else %}
-    <span class="pagination-item older">Äldre</span>
+    <span class="pagination-item older">Bakåt</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Nyare</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Framåt</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Nyare</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Framåt</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Framåt</span>
   {% endif %}
 </div>
 
