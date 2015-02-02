@@ -41,10 +41,14 @@ body {
 }
 
 html {
-  font-family: 'Futura'; Georgia;
+  font-family: 'Futura'; Georgia,
   font-style: normal;
   font-weight: 400;
 }  
+p.sansserif {
+    font-family: Georgia
+  
+}
 {
 h1, h2, h3, h4, h5, h6 
 
