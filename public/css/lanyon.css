@@ -47,15 +47,13 @@ html {
   src: local('EB Garamond'), local('EBGaramond'), url(http://fonts.gstatic.com/s/ebgaramond/v7/CDR0kuiFK7I1OZ2hSdR7G7O3LdcAZYWl9Si6vvxL-qU.woff) format('woff');"PT Serif", Georgia, "Times New Roman", serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
- h1 {
-	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-	font-size: 16px;
-	font-style: normal;
-	font-variant: normal;
-  font-weight: 400;
-  color: #313131;
-  letter-spacing: -.025rem;
+h1, h2, h3, h4, h5, h6 
+
+    font-family: 'freight-display-pro', 'PT Serif', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: .05rem;
 }
 
 
@@ -555,4 +553,3 @@ a.pagination-item:hover {
 -/* Only one tweak for a reverse layout */
 -.layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
 -  box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
-}
