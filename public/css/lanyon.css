@@ -41,12 +41,12 @@ body {
 }
 
 html {
-  font-family: 'EB Garamond';
+  font-family: 'Futura';
   font-style: normal;
   font-weight: 400;
   src: local('EB Garamond'), local('EBGaramond'), url(http://fonts.gstatic.com/s/ebgaramond/v7/CDR0kuiFK7I1OZ2hSdR7G7O3LdcAZYWl9Si6vvxL-qU.woff) format('woff');"PT Serif", Georgia, "Times New Roman", serif;
 }
-
+{
 h1, h2, h3, h4, h5, h6 
 
     font-family: 'futura', 'PT Serif', "Helvetica Neue", Helvetica, Arial, sans-serif;
