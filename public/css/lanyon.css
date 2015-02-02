@@ -48,13 +48,14 @@ html {
 {
 h1, h2, h3, h4, h5, h6 
 
-    font-family: 'futura', 'PT Serif', "Helvetica Neue", Helvetica, Arial, sans-serif; Georgia
+    font-family: 'futura', 'PT Serif', "Helvetica Neue", Helvetica, Arial, sans-serif; 
     font-size: 20px;
     line-height: 1.5;
     font-weight: 400;
     letter-spacing: .05rem;
 }
-
+p.sansserif {
+    font-family: Georgia }
 
 /*
  * Wrapper
