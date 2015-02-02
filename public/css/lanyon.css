@@ -53,14 +53,14 @@ p.sansserif {
 h1, h2, h3, h4, h5, h6 
 
     font-family: "futura", 'PT Georgia', Georgia, Helvetica, Arial, sans-serif;  
-    font-size: 20px;
+    font-size: 18;
     line-height: 1.5;
     font-weight: 400;
     letter-spacing: .05rem;
 }
 p {
 	font-family: 'sans serif';
-	font-size: 14px;
+	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
