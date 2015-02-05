@@ -4,7 +4,7 @@ title: Pumpasoppa och livvakter
 comments: true
 ---
 
-Åt pumpasoppa igår och idag till lunch, jag hade med mig soppan till till jobbet i en matlåda som gick sönder i väskan. En kanonstart på dagen. Sen dess har pumpasoppan har på olika sätt gjort sig påmind i hela 18 timmar. 
+Åt pumpasoppa igår och idag till lunch, jag hade med mig soppan till till jobbet i en matlåda som gick sönder i väskan. En kanonstart på dagen. Sen dess har pumpasoppan  på olika sätt gjort sig påmind i hela 18 timmar. 
 
 Nåja. 
 
