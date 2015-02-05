@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Det förbannade Super Bowl
+comments: true
 ---
 
 Det är kul med sport. Särskilt när en gör det själv. Titta på när andra gör det kan också vara kul, även om jag skulle aldrig skriva dramatiska statusuppdateringar om matchresultat eller skrika mig hes över dåliga domslut och snygga frisparksmål. Jag kan förstå att människor gör det, att de hejar på något lag eller så. Det kan locka fram både det bästa och sämsta ur människor. Det kan få den försiktigaste att vråla könsord och hårda, tuffa män att gråta och kramas. För min del får man gärna både vråla könsord och kramas närsomhelst, kör på bara. Men det finns gränser för det här hejandet. En kan inte heja på vad som helst, bara för hejandes skull.
