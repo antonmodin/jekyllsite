@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Valkompasserna leder oss på villovägar
+comments: true
 ---
 
 En kompass visar vägen när du inte vet vartåt du ska gå, när du är vilse. Det är skönt, för även om man gärna ser sig själv som en odödlig överlevare så kan det vara skönt att veta att kompassen finns där som en vän att ta i handen. Som leder dig ut ur skogen och in i hemmets varma gemenskap.
