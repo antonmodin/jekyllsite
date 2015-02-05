@@ -12,4 +12,4 @@ Andra bryr sig väldigt mycket om superbowlandet och ställer till med uppesitta
 
 Det här är väl inget att hetsa upp sig över egentligen. Det finns betydligt värre saker, riktiga problem. Som att jag igår utan framgång ägnade en dryg timme åt att få tag i någorlunda välbakade semlor. Men jag kan inte låta bli. Fan så irriterad jag blir. Jag har väl inget mot den märkliga sporten i sig, men två saker är stör jag mig särskilt på: att det är galna fyrtiofem personer per lag och att tränaren har en fånig mikrofon på sig under hela matchen. Sen förstår jag inte varför det heter ”bowl”, det betyder ju ”skål”.
 
-Hur som helst. 
+ 
