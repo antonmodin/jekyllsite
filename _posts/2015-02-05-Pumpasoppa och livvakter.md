@@ -14,9 +14,9 @@ I största allmänhet är det häftigt med livvakter, men det är såklart mycke
 
 Ändå har livvakterna självklart insett det här. De är skitbra på sånt, att märka det som egentligen är helt omöjligt att upptäcka. Särskilt farliga grejer, som tokstollar som planerar tårtattacker eller att skilja en väska fylld med svettiga träningskläder och banan från en fylld med sprängämnen. Sånt är svårt att lära sig men såklart bra att kunna. 
 
-För att inte plåga den beskyddade alltför mycket har livvakterna utvecklat ett mycket sofistikerat system. De har lärt sig att hela tiden röra sig i den beskyddades döda vinkel. På så vis märker hen inte att livvakterna finns där att ta en kula för dem om så skulle krävas. Helt otroligt. 
+För att inte plåga den beskyddade alltför mycket har livvakterna utvecklat ett mycket sofistikerat system. De har lärt sig att hela tiden röra sig i den beskyddades döda vinkel. På så vis märker hen inte att livvakterna finns där att ta en kula för dem om så skulle krävas. Helt otroligt. Och bra, för personer som är så viktiga att de behöver livvaktsskydd har ofta många krävande och topphemliga saker att få gjort om dagarna. Då vill en inte bli störd.  
 
 ![Image of livvakt]
 (https://raw.githubusercontent.com/antonmodin/assets/master/livvakt.jpg)
-<i>Kung med livvakter i död vinkel</i>
+<i>Tillsynes oberörd Kung med livvakter i död vinkel</i>
 
