@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Anton
+title: 
 ---
-
-<p class="message">
-  Här ska det stå något festligt. 
-</p>
 ![Image of Anton]
 (https://raw.githubusercontent.com/antonmodin/assets/master/Anton.jpg)
 
