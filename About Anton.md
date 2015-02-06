@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Anton
 ---
 ![Image of Anton]
 (https://raw.githubusercontent.com/antonmodin/assets/master/Anton.jpg)
