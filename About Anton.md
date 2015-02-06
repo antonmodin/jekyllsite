@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anton Ola Modin
+title: Anton
 ---
 
 <p class="message">
