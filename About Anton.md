@@ -11,7 +11,7 @@ title: Anton
 
 
 ## Kontakt
-<h3> +46 736 439 30
+<h4> +46 736 439 30 </h4>
 <p></p>
-<a href="https://twitter.com/antonmodin" target="_blank">@antonmodin</a>.</h3>
+<h4><a href="https://twitter.com/antonmodin" target="_blank">@antonmodin</a>.<h/4>
 
