@@ -11,4 +11,4 @@ Vad beträffar piloternas gnäll så är det väl i dessa tider många andra yrk
  
 Sådan skit kan en tydligen inte så ut med om det ska flygas. Nä du! Bakom spakarna ska en kunna sitta tryggt och bekvämt, mätt och belåten. Medellönen för en pilot i Sverige är knappt 60 000 kronor. De kan väl gott lägga undan lite till bistrare dagar och passa på att handla i tax freen. 
  
-Håll käft och flyg.  
+
