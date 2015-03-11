@@ -4,7 +4,7 @@ title: Konsten att gå på konstmuseum
 comments: true
 ---
 
-<h3> Jan Lööf ställer för ut på Göteborgs konstmuseum. Det händer inte ofta att jag går på konstmuseum, men häromdagen så slog jag till.</h3> 
+<strong> Jan Lööf ställer för ut på Göteborgs konstmuseum. Det händer inte ofta att jag går på konstmuseum, men häromdagen så slog jag till.</strong> 
   
 För mig är museimiljön en märklig plats. Så fort de stora dörrarna stängts bakom mig förvandlas jag till en vilsen skolpojke som med förvirrad blick söker efter bekanta ansikten. Denna gång var Skrotnisse på plats som jag känner igen men alltid har tyckt är lite otäck. Karl den XII såg jag också, dessvärre han låg på en brits med skotthål i pannan och verkade inte alls särskilt sugen på att hjälpa en vilsen museibesökare tillrätta. Jag var lämnad åt mitt öde. Det var jag och konsten.
   
