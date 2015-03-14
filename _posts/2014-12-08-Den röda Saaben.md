@@ -12,7 +12,7 @@ Jag hade skjorta på mig vars ärmar var upprullade upp på ett sätt som såg s
  
 Inne i bilens kupé vreds det flitigt men utan framgång på både startnyckeln och mitt huvud. Som tur var fanns där på rampen en tillsynes redig karl i full snickarmundering vars blick mötte så snart jag tagit mig ur bilen. Han hade märkt vad som hänt och slog mig som en person som nog skulle kunna ordna upp det här.  Först pratade han om något batteri han kände till, jag vet inte varför. Men sen sa han att det här inte var några problem. Det var bara att knuffa Saaben nedför rampen. 
 
--Just det, sa jag, det blir perfekt.<p></p>
+-Just det, sa jag, det blir perfekt.<br></br>
 -Hoppa in du så puttar vi, svarade min räddare och vinkade till sig ytterligare en man i snickarbyxor. 
 
 De gav bilen en ordentlig putt och den rullade med kanska god fart nedför rampen. Jag trampade ned kopplingen och vred om nyckeln så som man gör när man startar bilar. Inte heller denna gång behagade bilen att starta och snart stod jag nedanför den lilla backen. Det är tydligen inget konstigt, växeln måste vara i har jag fått lära mig. Men det hade jag ingen aning om där och då. Vet folk sånt? 
