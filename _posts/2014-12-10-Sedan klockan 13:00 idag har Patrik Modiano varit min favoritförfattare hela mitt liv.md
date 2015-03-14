@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sedan klockan 13:00 idag har Patrik Modiano varit min favoritförfattare hela mitt liv.
+title: Sedan klockan 13:00 idag har Patrik Modiano varit min favoritförfattare hela mitt liv
 comments: true
 ---
 
