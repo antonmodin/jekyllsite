@@ -10,7 +10,8 @@ I ärlighetens namn är det inte ofta man är hopplöst vilse i bland granar, mo
 
 <a href="http://www.lovisagronlund.com/photos">![Image of lofot]
  (https://raw.githubusercontent.com/antonmodin/assets/master/lofot.jpg)</a>
-
+<i> Foto: Lovisa Grönlund</i>
+ 
 En vanlig kompass pekar alltid mot Nordpolen. Men om jag inte ska just till Nordpolen behöver jag en karta och uppfattning om i vilken riktning jag ska gå, annars kan jag hamna vart som helst. Det är annorlunda med Supervalårets valkompasser. Svarar jag bara på några snabba frågor på min iPhone så kommer valkompassen leda mig. Det är allt som krävs. 
 
 Valkompassen asfalterar min väg genom den politiska skogen. Torrskodd kan jag promenera förbi partiprogram, almedalsveckor och partiledardebatter och in i ett vardagsrum där riksdagskandidater med matchande åsikter hälsar mig välkommen. Skönt. En personlig rekommendation.
