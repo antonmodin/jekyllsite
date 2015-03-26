@@ -24,4 +24,4 @@ Det är likadant med många saker. Det är så förbannat svårt att vara måttl
   
 Trösklarna för att börja, pröva sina vingar eller testa sin åsikt, blir till murar. Alla får inte vara med och leka. Alla måste förtjäna sin plats och då blir det svårt att ens börja.
  
-Jag tycker det är synd. Jag tror jag skulle kunna blivit en rätt hyfsad skateare om jag bara vågat vara dålig.
+Jag tycker det är synd. Jag tror jag skulle kunna blivit en rätt hyfsad skatare om jag bara vågat vara dålig.
