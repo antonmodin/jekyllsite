@@ -14,7 +14,7 @@ Människor tycker och agerar utifrån deras omgivning, erfarenheter och förutfa
 
 ![Image of elefant]
 (https://raw.githubusercontent.com/antonmodin/assets/master/elafant.JPG)
-<i>En elefant</i>
+<i>'Det är en elefant'. Vattenfärg på papper, Anton Modin (1990 – )</i>
  
 <strong>Så är det inte idag.</strong> Ofta tycker jag diskussioner och debatter svävar iväg till att handla om diskussionen i sig snarare än om dess innehåll. Det blir en debatt om debatten. En jakt på att finna motpartens svagheter och kunskapsluckor för att sedan där drämma till med full kraft. Ska det krävas en examen i ämnet för att få uttrycka en åsikt i debatten? Måste man vara expert för att bli lyssnad på eller ens våga uttrycka en försiktig åsikt?
  
