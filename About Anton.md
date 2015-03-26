@@ -2,8 +2,8 @@
 layout: page
 title: Anton
 ---
-![Image of Anton]
-(https://raw.githubusercontent.com/antonmodin/assets/master/Anton.jpg)
+<a href="http://www.lovisagronlund.com/photos">![Image of Anton]
+(https://raw.githubusercontent.com/antonmodin/assets/master/Anton.jpg)</a>
 
 
 ## Kontakt
