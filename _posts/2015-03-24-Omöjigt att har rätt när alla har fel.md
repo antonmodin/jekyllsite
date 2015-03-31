@@ -4,7 +4,7 @@ title: Omöjligt att ha rätt när alla har fel
 comments: true
 ---
 
-Man ska var snäll, det är inget snack om den saken, göra sitt bästa för att världen ska bli en lite bättre plats. Behandla andra med respekt och inte slänga skräp i parken, slita loss mossa från stenar eller stiga på ett tåg innan de som ska kliva av har fått gör det. Det är sunt förnuft. 
+Man ska vara snäll, det är inget snack om den saken, göra sitt bästa för att världen ska bli en lite bättre plats. Behandla andra med respekt och inte slänga skräp i parken, slita loss mossa från stenar eller stiga på ett tåg innan de som ska kliva av har fått gör det. Det är sunt förnuft. 
 
 För det barkar åt helvete har vi fått lära oss. Maten tar slut, isarna smälter, klyftorna växer och våldet blir både hårdare och vanligare. Det blir ett elände för oss här snart, om vi inte tagit kål på varandra innan dess. Det finns de som som verkar ha valt den taktiken också. 
 
