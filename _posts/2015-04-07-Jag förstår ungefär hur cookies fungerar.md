@@ -12,7 +12,7 @@ Det är svårt får den utomstående att förklara hur genier tänker, och det �
 <center>![Image of confused]
 (https://raw.githubusercontent.com/antonmodin/assets/master/confused.gif)
 </center> <br></br>
-  Lyckligtvis är det lätt att ljuga på internet, säga att man är någon man inte är eller till exempel snabbt klicka i att man minsann förstår hur cookies fungerar fast man inte har en susning.
+> Lyckligtvis är det lätt att ljuga på internet, säga att man är någon man inte är eller till exempel snabbt klicka i att man minsann förstår hur cookies fungerar fast man inte har en susning.
  
 
 **Jag förstår ungefär, vi kan ta ett exempel:** Jag springer. Ibland långt, ibland fort och vissa gånger bara 200 meter för att sedan stanna, gå hem och äta oliver direkt ur burken. Oavsett så berättar min kära gps-klocka hur det har gått. Det är kilometertider, och höjdmetrar och distanser hit och dit. Den har järnkoll. En ”pålitlig träningspartner” stod det i annonsen. Den funkar skitbra och såvitt jag förstår fungerar den ungefär såhär: 
