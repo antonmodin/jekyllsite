@@ -4,7 +4,7 @@ title: Jag förstår UNGEFÄR hur cookies fungerar
 comments: true
 ---
 
-Det finns saker som är helt omöjliga att förstå. Som handlingen i Interstellar, att det överhuvudtaget finns människor som äter makrill i tomatsås eller vad ”Big Data” egentligen innebär. Är det en ursinnigt stor och stark dator eller ett oändligt arkiv av information? Det är saker som hur länge man än funderar på inte utan att förstå hur de fungerar.
+Det finns saker som är helt omöjliga att förstå. Som handlingen i Interstellar, att det överhuvudtaget finns människor som äter makrill i tomatsås eller vad ”Big Data” egentligen innebär. Är det en ursinnigt stor och stark dator eller ett oändligt arkiv av information? Det är saker som hur länge man än funderar på dem inte kan förstå hur de fungerar.
  
 Det är svårt får den utomstående att förklara hur genier tänker, och det är väl just det som gör dem till genier. Men det är bara det att jag så ofta känner sig som en idiot, trots att jag både läst på universitet och brukar kolla på På Spåret. Det är inte som förr i tiden, när vanligt folk funderade på hur sjutton man fick in ett flaskskepp i flaskan eller hur ett majskorn kunde bli till ett popcorn. Nu är det andra bullar. Särskilt på internet.
  
@@ -15,7 +15,7 @@ Det är svårt får den utomstående att förklara hur genier tänker, och det �
  
 Jag springer. Ibland långt, ibland fort och vissa gånger bara 200 meter för att sedan stanna, gå hem och äta oliver direkt ur burken. Oavsett så berättar min kära gps-klocka hur det har gått. Det är kilometertider, och höjdmetrar och distanser hit och dit. Den har järnkoll. En ”pålitlig träningspartner” stod det i annonsen. Den funkar skitbra och såvitt jag förstår fungerar den ungefär såhär: 
 
-<i>Jag sätter den på armen, trycker två gånger på knappen längst upp till höger och väntar tills det står” GPS hittades” sedan trycker jag på start. Den piper, jag springer. När jag är svettig och färdig så trycker jag på stopp och får lite drygt all information jag kan tänkas behöva. Den fungerar med hjälp av en satellit borta i rymden och tillsammans med den lyckas klockan räkna ut var jag är och hur jag rör mig. Det har att göra med koordinater, signaler och rymden. Det är ungefär så den fungerar.</i>
+<i>Jag sätter den på armen, trycker två gånger på knappen längst upp till höger och väntar tills det står” GPS hittades” sedan trycker jag på start. Den piper, jag springer. När jag är svettig och färdig så trycker jag på stopp och får lite drygt all information jag kan tänkas behöva. Den fungerar med hjälp av en satellit borta i rymden och tillsammans med den lyckas klockan räkna ut var jag är och hur jag rör mig. Det har att göra med koordinater, signaler och rymden. Det är ungefär så den fungerar. Mer förstår jag inte.</i>
 
 Det är lurigt det där, att förstå ungefär (eller inte alls) hur saker fungerar. Och i dessa tider, då den ena tekniska apparaten är smartare än den andra, känns det som att allt fler förstår allt mindre om hur saker i deras omgivning fungerar. Vad gör det med oss?
  
