@@ -11,9 +11,8 @@ Det är svårt får den utomstående att förklara hur genier tänker, och det �
 <strong>Det är synd,</strong> för det är liksom där det händer. Och jag vill såklart känna mig smart och med i matchen och den biten. Men när det kommer till supermoderna system eller förarlösa bilar så är jag i ärlighetens namn ganska vilsen.
 <center>![Image of confused]
 (https://raw.githubusercontent.com/antonmodin/assets/master/confused.gif)
-<i>Jag förstår ungefär.</i> </center> <br></br>
- 
- Lyckligtvis är det lätt att ljuga på internet, säga att man är någon man inte är eller till exempel snabbt klicka i att man minsann förstår hur cookies fungerar fast man inte har en susning.
+</center> <br></br>
+Lyckligtvis är det lätt att ljuga på internet, säga att man är någon man inte är eller till exempel snabbt klicka i att man minsann förstår hur cookies fungerar fast man inte har en susning.
  
 
 **Jag förstår ungefär, vi kan ta ett exempel:** Jag springer. Ibland långt, ibland fort och vissa gånger bara 200 meter för att sedan stanna, gå hem och äta oliver direkt ur burken. Oavsett så berättar min kära gps-klocka hur det har gått. Det är kilometertider, och höjdmetrar och distanser hit och dit. Den har järnkoll. En ”pålitlig träningspartner” stod det i annonsen. Den funkar skitbra och såvitt jag förstår fungerar den ungefär såhär: 
