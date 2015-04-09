@@ -10,12 +10,12 @@ Idag skulle det bli kalas på innergården. Födelsedagsbarnet hade prickat in j
  
 Det var en farfar eller morfar som stod där och det var hans uppgift att se till att det blev kalas. Med bara lite stela rörelser hängde han vimplar mellan träden och baxade fram en grill på vilken kalasmåltiden skulle lagas. Snart var också borden dukade med färgglada servetter och när de första gästerna började samlas inne på gården gjorde farfar’n – eller morfar’n –  några övningspanoreringar med sin videokamera. Det var uppenbart att den stannade vid den plats där födelsedagsbarnet skulle sitta. Allt var perfekt, kalaset kunde börja. 
   
-![Image of mormor]
+Mannen med det gråvita håret hade full koll, han såg avspänd ut och rörde sig vant vid sin plats vid grillen. Kring borden trivdes gästerna. Han hade möjlighet att överblicka det hela, som om han vore mitt i livet. Idag erbjöd ingen honom sin sittplats, frågade om hans krämpor eller pratade högt i hans öra. Hans leende blick mötte det födelsedagsfirande barnbarnets förväntansfulla ögon och han sträckte armarna rakt upp och frågade högt: ”Vem vill ha mer korv!?”
+  
+ ![Image of mormor]
 (https://raw.githubusercontent.com/antonmodin/assets/master/mormor.jpg)
 *Min mormor fotograferad av [Lovisa Grönlund](http://lovisagronlund.tumblr.com)*
  
- 
- Mannen med det gråvita håret hade full koll, han såg avspänd ut och rörde sig vant vid sin plats vid grillen. Kring borden trivdes gästerna. Han hade möjlighet att överblicka det hela, som om han vore mitt i livet. Idag erbjöd ingen honom sin sittplats, frågade om hans krämpor eller pratade högt i hans öra. Hans leende blick mötte det födelsedagsfirande barnbarnets förväntansfulla ögon och han sträckte armarna rakt upp och frågade högt: ”Vem vill ha mer korv!?”
   
 **Jag vet inte hur det är att vara gammal** och mina minnen från dagisåldern är sporadiska, suddiga och säkerligen förvrängda av åren som gått sedan dess. Jag är så upptagen med att vara Anton, att med full fart rusa mot mina mål och drömmar.
  
