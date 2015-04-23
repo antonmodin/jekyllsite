@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anton
+title: 
 ---
 <a href="http://www.lovisagronlund.com/photos">![Image of Anton]
 (https://raw.githubusercontent.com/antonmodin/assets/master/Anton.jpg)</a>
