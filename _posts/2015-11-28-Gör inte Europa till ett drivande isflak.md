@@ -17,7 +17,7 @@ Jag tänkte ”jävla is” och antar att expeditionsmedlemmarna gjorde detsamma
 (https://upload.wikimedia.org/wikipedia/commons/0/08/Eagle-crashed.jpg)
 <i>Expeditionens krashlandade luftballong</i>
 
-**I Europa 2015** görs nu många vandringar från liv slagna i spillror, mot hopp om en ny, trygg framtid. Långa strapatser från brinnande ruiner och över kalla hav till taggtråd, gränskontroller och osäker väntan. En resa med livet i en ryggsäck, kämpandes dag efter dag. I flera månader. Många har kommit långt och hoppas snart kunna slå sig ned för att vila. Men nu blir varm höst kall vinter, och fler gränser stängs. Svenska regeringen stänger dörren, flyktens mål blir allt svårare att se. 
+**I Europa 2015** görs nu många vandringar från liv slagna i spillror, mot hopp om en ny, trygg framtid. Långa strapatser från brinnande ruiner och över kalla hav till taggtråd, gränskontroller och osäker väntan. En resa med livet i en ryggsäck, kämpandes dag efter dag. I flera månader. Många har kommit långt och hoppas snart kunna slå sig ned för att vila. Men nu blir varm höst kall vinter, och fler gränser stängs. Svenska regeringen stänger dörren. Flyktens mål blir allt svårare att se. 
 
 De kommer inte fram. De går i en mardröm. Det är som att marken de går på rör sig i motsatt riktning.
 
