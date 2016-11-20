@@ -13,7 +13,7 @@ Varje kväll när mörket föll och kylan bet hårdare i deras kinder slog de l�
 
 Jag tänkte ”jävla is” och antar att expeditionsmedlemmarna gjorde detsamma. Att vända var inget alternativ. Men plötsligt kändes att fortsätta inte som det heller.
 
-![eagle-crashed.jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Eagle-crashed.jpg)
+![1eagle-crashed.jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Eagle-crashed.jpg)
 <i>Expeditionens krashlandade luftballong</i>
 
 **I Europa 2015** görs nu många vandringar från liv slagna i spillror, mot hopp om en ny, trygg framtid. Långa strapatser från brinnande ruiner och över kalla hav till taggtråd, gränskontroller och osäker väntan. En resa med livet i en ryggsäck, kämpandes dag efter dag. I flera månader. Många har kommit långt och hoppas snart kunna slå sig ned för att vila. Men nu blir varm höst kall vinter, och fler gränser stängs. Svenska regeringen stänger dörren. Flyktens mål blir allt svårare att se. 
