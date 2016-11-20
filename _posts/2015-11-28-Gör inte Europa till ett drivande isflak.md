@@ -13,7 +13,7 @@ Varje kväll när mörket föll och kylan bet hårdare i deras kinder slog de l�
 
 Jag tänkte ”jävla is” och antar att expeditionsmedlemmarna gjorde detsamma. Att vända var inget alternativ. Men plötsligt kändes att fortsätta inte som det heller.
 
-![Image of eagle-crashed.jog]
+![eagle-crashed.jpg]
 (https://upload.wikimedia.org/wikipedia/commons/0/08/Eagle-crashed.jpg)
 <i>Expeditionens krashlandade luftballong</i>
 
