@@ -14,4 +14,4 @@ Vilken surpuppa. Det är faktiskt för en god sak, tänker du, att alla tänker 
 
 För det kan ju inte vara kul hela tiden. Att en ilsken debattartikel sätter stopp för den virala succén är väl inget skäl att ge upp? Det betyder bara att du nästa gång måste bli bättre, tänka längre och höja ribban. Göra skillnad på riktigt. När du ska ut och förändra världen kan du inte låta dig stoppas av mothugg eller avskräckas av snöblandat, vågrätt novemberregn.  Alla byråer vill ha den modiga kunden, men hur modig är du? Vad vågar du sätta spel för en bättre värld?
 
-<i>Texten publicerade som en debatt på [Resumé](http://www.resume.se/nyheter/artiklar/2016/11/16/det-gar-inte-att-forandra-varlden-utan-att-fa-ovanner/) </i>
+<i>Texten publicerades som en debatt på [Resumé](http://www.resume.se/nyheter/artiklar/2016/11/16/det-gar-inte-att-forandra-varlden-utan-att-fa-ovanner/) </i>
