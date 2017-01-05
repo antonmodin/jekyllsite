@@ -46,7 +46,7 @@ html {
   font-weight: 400;
 }  
 p.sansserif {
-    font-family: Georgia
+    font-family: Merriweather
   
 }
 {
@@ -59,9 +59,9 @@ h1, h2, h3, h4, h5, h6
     letter-spacing: .05rem;
 }
 p {
-	font-family: 'Vollkorn';
+	font-family: 'Merriweather';
 	font-size: 18px;
-	font-style: normal;
+	font-style: Light;
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 20px;
