@@ -8,9 +8,9 @@ highlighter:         rouge
 
 
 # Setup
-title:               Anton
-tagline:             'Delvis trams'
-description:         Ibland kort, ibland långt. Sällan viktigt. 
+title:               
+tagline:             
+description:         Ibland kort, ibland långt. Delvis trams. 
 url:                 http://antonmodin.se
 baseurl:             /
 paginate:            5
