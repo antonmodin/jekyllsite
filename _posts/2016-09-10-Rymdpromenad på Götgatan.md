@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gör inte Europa till ett drivande isflak
+title: Rymdpromenad på Götgatan
 comments: true
 ---
 Jag är i rymden. I en sån där stor vit dräkt med klotrund hjälm. På rymdpromenad. I dräkten är det lagom varmt och tryggt, jag ser hur mina andetag bildar små fläckar av imma på visiret som bara är några centimeter framför mitt ansikte. Utanför visiret finns inga andetag. Inga suckar eller upphetsade flåsningar. På utsidan finns bara ingenting. Där är kallt och mörkt och oändligt. Inte ens mina tankar vågar sig ut dit. Precis som mina andetag så studsar de mot visiret och snart är det alldeles fullt av korta små ofärdiga tankar i hjälmen. Det blir svårt att tänka mer.
